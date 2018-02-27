@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio Visualizer v1.1", "Audio Visualizer v1.1.csproj", "{CDB1F25C-4A09-514F-1849-9916FDFE4738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio Visualizer v1.1.Editor", "Audio Visualizer v1.1.Editor.csproj", "{CD281E34-9021-7D76-5FF7-7AC1BC348256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB1F25C-4A09-514F-1849-9916FDFE4738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB1F25C-4A09-514F-1849-9916FDFE4738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB1F25C-4A09-514F-1849-9916FDFE4738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB1F25C-4A09-514F-1849-9916FDFE4738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD281E34-9021-7D76-5FF7-7AC1BC348256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD281E34-9021-7D76-5FF7-7AC1BC348256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD281E34-9021-7D76-5FF7-7AC1BC348256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD281E34-9021-7D76-5FF7-7AC1BC348256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
